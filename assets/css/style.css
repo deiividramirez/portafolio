@@ -26,7 +26,7 @@ Description: CV, Resume, vCard HTML Template
 /*-----------------------------------------------------------------*/
 body {
     color: #1a1a1a;
-    background-color: #5352d4;
+    background-color: #194AA2;
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
 }
@@ -57,7 +57,7 @@ li {
     left: 0;
     height: 100%;
     width: 100%;
-    background: #0C0C0C;
+    background: #194AA2;
     z-index: 6;
     overflow: hidden;
 }
@@ -162,7 +162,7 @@ li {
 /*                      HEADER                                     */
 /*-----------------------------------------------------------------*/
 .header {
-    background: #5655da;
+    background: #194AA2;
     padding: 46px;
     position: fixed;
     height: 100%;
@@ -278,7 +278,7 @@ li {
 
 /* === Mobile Menu Bar === */
 .header .mobile-bar {
-    background: rgba(12,12,12,0.75);
+    background: #1949a2;
     color: #FFF;
     height: 60px;
     right: -59px;
@@ -374,7 +374,7 @@ li {
 }
 
 .main-content section .section-header h2 {
-    color: #f74470;
+    color: #194AA2;
     display: inline-block;
     font-family: 'Poppins', sans-serif;
     font-size: 17px;
@@ -671,7 +671,7 @@ li {
 }
 
 .works .item-outer .item .overlay {
-    background: rgba(248,85,125,0.85);
+    background: #1949a26e;
     height: 100%;
     left: 0;
     opacity: 0;
@@ -777,7 +777,7 @@ li {
 /* === Button === */
 .btn-default {
     color: #FFF;
-    background-color: #5655da;
+    background-color: #194AA2;
     border: 0;
     border-radius: 0;
     font-size: 12px;
@@ -791,7 +791,7 @@ li {
 
 .btn-default:hover {
     color: #FFF;
-    background-color: #5655da;
+    background-color: #194AA2;
     border: 0;
 }
 
@@ -816,7 +816,7 @@ li {
     line-height: 1px;
     color: #fff;
     text-align: center;
-    background-color: #f74470;
+    background-color: #194AA2;
     -webkit-box-shadow: none;
     box-shadow: none;
     -webkit-transition: width .6s ease;
@@ -863,7 +863,7 @@ li {
     margin: 5px 3px;
     filter: Alpha(Opacity=20);
     opacity: .2;
-    background: #f8557d;
+    background: #194AA2;
 }
 
 .owl-theme .owl-controls {
